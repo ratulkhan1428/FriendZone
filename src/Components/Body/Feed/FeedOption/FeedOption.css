@@ -1,0 +1,11 @@
+.feedOption{
+    margin-top: 15px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.feedOption:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
